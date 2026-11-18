@@ -18,8 +18,8 @@ This project implements physics-informed neural networks (PINNs) specifically de
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/PIDL-EM.git
-cd PIDL-EM
+git clone https://github.com/ivancanull/pidl-em.git
+cd pidl-em
 
 # Install dependencies
 pip install -r requirements.txt
